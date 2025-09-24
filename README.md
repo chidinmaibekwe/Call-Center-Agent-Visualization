@@ -26,7 +26,7 @@ This dataset located in the xlsx file in the repository records individual custo
 ## DATA VISUALIZATION
 - Description: This project presents an interactive dashboard designed to monitor and analyze key performance indicators (KPIs) for call center agents. It provides insights into call handling, resolution rates, and agent performance to help optimize call center operations. 
 - Call Volume Analysis: First set of scorecards displays total answered and unanswered calls, while the second pair of scorecards displays percentage comparison between them (e.g., 81% answered, 19% unanswered).
-- Agent Performance Overview: Provides data on individual agent performance (e.g., Jim, Martha, Dan, Diane, Becky, Greg, Joe).
+- Agent Performance Overview: Provides data on individual agent performance (e.g., Jim, Martha, Dan, Diane, Becky, Greg, Joe). By clicking on each agent on the list, we would get to see their individual performance.
 - Resolution Tracking: Monitors resolved calls against total calls.
 - Interactive Visualizations: Utilizes gauge charts and score cards for easy data interpretation.
 
